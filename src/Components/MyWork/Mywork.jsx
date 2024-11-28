@@ -1,4 +1,4 @@
-import "./Mywork.css";
+import "./MyWork.css";
 import theme_pattern from "../../assets/theme_pattern.svg";
 import mywork_data from "../../assets/mywork_data";
 import React, { useState } from "react";
