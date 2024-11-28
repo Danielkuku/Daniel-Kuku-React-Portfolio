@@ -200,4 +200,7 @@
   .contact-detail img {
     width: 20px;
   }
+  .contact-section {
+    gap: 90px;
+  }
 }
