@@ -12,7 +12,7 @@ const mywork_data = [
     w_des:
       "This Netflix Clone is a feature-rich web application built with React, using TMDB RESTful API for movie data. It incorporates react-firebase-hooks for authentication, react-router-dom for smooth navigation, and react-toastify for interactive notifications. Designed to replicate the Netflix interface, it allows users to browse, search, and interact with movies seamlessly. This project highlights my expertise in React, API integration, and modern web development.",
     github_link: "https://github.com/Danielkuku/Netflix-Clone-App",
-    live_link: "https://youtubee-clone-react-app.netlify.app/",
+    live_link: "https://netflix-clone-daniel-kukus-projects.vercel.app/",
   },
   {
     w_no: 2,
