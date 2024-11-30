@@ -110,7 +110,7 @@
 @media screen and (max-width: 425px) {
   .hero img {
     width: 230px;
-    height: 230px;
+    height: 300px;
   }
   .hero h1 {
     margin-top: 15px;
